@@ -1,0 +1,9 @@
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\bin\x64\Release\reflection.exe.config
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\bin\x64\Release\reflection.exe
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\bin\x64\Release\reflection.pdb
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\obj\x64\Release\reflection.csprojAssemblyReference.cache
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\obj\x64\Release\reflection.Properties.Resources.resources
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\obj\x64\Release\reflection.csproj.GenerateResource.cache
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\obj\x64\Release\reflection.csproj.CoreCompileInputs.cache
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\obj\x64\Release\reflection.exe
+C:\Users\pente\OneDrive\Documentos\GitHub\reflection-dll\reflection\reflection\obj\x64\Release\reflection.pdb
